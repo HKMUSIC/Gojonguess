@@ -10,12 +10,12 @@ def register(app):
         # Define inline buttons
         keyboard = InlineKeyboardMarkup([
             [
-                InlineKeyboardButton("Developer 👨‍💻", url="https://t.me/MrZyro"),
-                InlineKeyboardButton("Update Channel 📢", url="https://t.me/Zyro_Network")
+                InlineKeyboardButton("✦ᴍʏ ʟᴏʀᴅ✦", url="https://t.me/HeartStealer_X"),
+                InlineKeyboardButton("❍ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ❍", url="https://t.me/GOJO_SUPPORT_GROUP_II")
             ],
             [
-                InlineKeyboardButton("Help ❓", callback_data="help_command"),
-                InlineKeyboardButton("Repo 💡", url="https://github.com/MrZyro/ZyroNguess")
+                InlineKeyboardButton("◓ʜᴇʟᴘ◓", callback_data="help_command"),
+                InlineKeyboardButton("❍sᴜᴘᴘᴏʀᴛ❍", url="https://t.me/GOJO_NOBITA_II")
             ]
         ])
 
