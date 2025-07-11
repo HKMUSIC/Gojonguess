@@ -24,7 +24,7 @@ This bot is **open-source**, built with ❤️ by the community for anime fans l
 - Need help? Hit the Help button or contact the developer.
 
 **Bot Version**: `2.0`  
-Made by **Mr Zyro** | Powered by [TEAM ZYRO](https://t.me/Zyro_Network)
+Made by **HeartStealer_X** | Powered by [𝐆ᴏᴊᴏꭙ 𝐍ᴇᴛᴡᴏʀᴋ](https://t.me/GOJO_SUPPORT_GROUP_II)
 """
 
 not_command_filter = filters.create(lambda _, __, msg: msg.text and not msg.text.startswith('/'))
