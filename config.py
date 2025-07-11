@@ -8,7 +8,7 @@ API_HASH = os.getenv("API_HASH", "bd4e2fe9c30486282417cdf9a93333b2")
 BOT_TOKEN = os.getenv("BOT_TOKEN", "8053362514:AAEuXoPAKz4sDezFKXjdhEEBbCT24eibLI4")
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://Gojowaifu:waifu123@gojowaifu.royysxq.mongodb.net/?retryWrites=true&w=majority&appName=Gojowaifu")
 GROUP_IDS = [int(gid.strip()) for gid in os.getenv("GROUP_IDS", "-1002792716047, -1002891249230").split(",")]
-START_PIC = os.getenv("START_IMG", "https://files.catbox.moe/aujzhu.jpg,https://files.catbox.moe/rlh27t.jpg,https://files.catbox.moe/z7d8i6.jpg")
+START_PIC = os.getenv("START_IMG", "https://files.catbox.moe/rlh27t.jpg")
 
 START_MESSAGE = """
 🌟 **Welcome to the Anime Character Guessing Bot!** 🌟
